@@ -41,7 +41,7 @@
       "chainId": 25,
       "name": "DAI",
       "symbol": "DAI",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/vietanh95/assets/master/assets/0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23.png"
     },
     {
@@ -49,7 +49,7 @@
       "chainId": 25,
       "name": "D3USD",
       "symbol": "D3USD",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/vietanh95/assets/master/assets/0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23.png"
     }
   ]
