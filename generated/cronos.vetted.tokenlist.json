@@ -18,7 +18,7 @@
       "name": "WCRO",
       "symbol": "WCRO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/vietanh95/assets/refactor-for-multichain/assets/0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23.png"
+    "logoURI": "https://raw.githubusercontent.com/vietanh95/assets/refactor-for-multichain/assets/0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23.png"
     },
     {
       "address": "0x66e428c3f67a68878562e79a0234c1f83c208770",
@@ -42,7 +42,7 @@
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/vietanh95/assets/refactor-for-multichain/assets/0xF2001B145b43032AAF5Ee2884e456CCd805F677D.png"
+      "logoURI": "https://raw.githubusercontent.com/vietanh95/assets/refactor-for-multichain/assets/0xf2001b145b43032aaf5ee2884e456ccd805f677d.png"
     },
     {
       "address": "0x9e23cAc8b509603e0a3aEC3A5597ceE86C911c87",
@@ -50,7 +50,7 @@
       "name": "D3USD",
       "symbol": "D3USD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/vietanh95/assets/refactor-for-multichain/assets/0x9e23cAc8b509603e0a3aEC3A5597ceE86C911c87.png"
+      "logoURI": "https://raw.githubusercontent.com/vietanh95/assets/refactor-for-multichain/assets/0x9e23cAc8b509603e0a3aEC3A5597ceE86C911c87.svg"
     }
   ]
 }
