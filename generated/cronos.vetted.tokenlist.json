@@ -13,6 +13,14 @@
   },
   "tokens": [
     {
+      "address": "0x83b2ac8642ae46fc2823bc959ffeb3c1742c48b5",
+      "chainId": 25,
+      "name": "DARK",
+      "symbol": "DARK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/vietanh95/assets/refactor-for-multichain/assets/0x83b2ac8642ae46fc2823bc959ffeb3c1742c48b5.png"
+    },
+    {
       "address": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
       "chainId": 25,
       "name": "WCRO",
